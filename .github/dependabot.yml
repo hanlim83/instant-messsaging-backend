@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: gomod
+    directory: /http-server
+    schedule:
+      interval: weekly
+  - package-ecosystem: gomod
+    directory: /rpc-server
+    schedule:
+      interval: weekly      

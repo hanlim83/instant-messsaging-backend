@@ -24,7 +24,7 @@ func main() {
 		log.Fatal(errMsg)
 	}
 
-	r, err := etcd.NewEtcdRegistry([]string{"etcd:2379"}) // r should not be reused.
+	r, err := etcd.NewEtcdRegistry([]string{"etcd:2379"})
 	if err != nil {
 		log.Fatal(err)
 	}

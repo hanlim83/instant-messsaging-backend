@@ -11,6 +11,7 @@ require (
 )
 
 require (
+	github.com/TikTokTechImmersion/assignment_demo_2023/http-server v0.0.0-20230518060359-4b2e6777fae0 // indirect
 	github.com/bytedance/go-tagexpr/v2 v2.9.2 // indirect
 	github.com/bytedance/gopkg v0.0.0-20220817015305-b879a72dc90f // indirect
 	github.com/bytedance/sonic v1.8.1 // indirect

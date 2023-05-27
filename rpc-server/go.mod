@@ -10,6 +10,8 @@ require (
 )
 
 require (
+	github.com/TikTokTechImmersion/assignment_demo_2023/http-server v0.0.0-20230518060359-4b2e6777fae0 // indirect
+	github.com/TikTokTechImmersion/assignment_demo_2023/rpc-server v0.0.0-20230518060359-4b2e6777fae0 // indirect
 	github.com/bytedance/gopkg v0.0.0-20220817015305-b879a72dc90f // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/chenzhuoyu/iasm v0.0.0-20230222070914-0b1b64b0e762 // indirect
@@ -34,7 +36,7 @@ require (
 	github.com/redis/go-redis/v9 v9.0.4 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/smartystreets/goconvey v1.7.2 // indirect
-	github.com/tidwall/gjson v1.9.3 // indirect
+	github.com/tidwall/gjson v1.13.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	go.etcd.io/etcd/api/v3 v3.5.5 // indirect
